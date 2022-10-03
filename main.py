@@ -8,6 +8,6 @@ print()
 print("<출력>")
 print("이름:", name)
 print("학번:", num)
-print("학과", major)
-print("학교", school)
+print("학과:", major)
+print("학교:", school)
 
